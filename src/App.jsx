@@ -814,6 +814,30 @@ function App() {
                 <span className="absolute inset-x-0 -bottom-1 h-px origin-left scale-x-0 bg-gold-300 transition-transform duration-300 group-hover:scale-x-100" />
               </a>
             ))}
+            <a
+              href="https://finaladmindashboard.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-full border border-gold-300 px-4 py-2 font-display text-sm tracking-[0.07em] text-gold-200 transition-colors duration-300 hover:bg-gold-300 hover:text-burgundy-950"
+            >
+              Admin
+            </a>
+            <a
+              href="https://roshaniworkflowapp.vercel.app"
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-full bg-gold-300 px-4 py-2 font-display text-sm tracking-[0.07em] text-burgundy-950 transition-colors duration-300 hover:bg-gold-200"
+            >
+              Try it now Yourself
+            </a>
+            <a
+              href="https://roshni-frontend-5noi.onrender.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="rounded-full border border-cream-50/70 bg-cream-50 px-4 py-2 font-display text-sm tracking-[0.07em] text-burgundy-950 transition-colors duration-300 hover:bg-cream-100"
+            >
+              Get started
+            </a>
           </div>
 
           <button
@@ -859,6 +883,30 @@ function App() {
                 {link.label}
               </a>
             ))}
+            <a
+              href="https://finaladmindashboard.vercel.app/"
+              target="_blank"
+              rel="noreferrer"
+              className="mt-4 rounded-full border border-gold-300 px-4 py-3 text-center font-display tracking-[0.07em] text-gold-200 transition-colors duration-300 hover:bg-gold-300 hover:text-burgundy-950"
+            >
+              Admin
+            </a>
+            <a
+              href="https://roshaniworkflowapp.vercel.app"
+              target="_blank"
+              rel="noreferrer"
+              className="mt-3 rounded-full bg-gold-300 px-4 py-3 text-center font-display tracking-[0.07em] text-burgundy-950 transition-colors duration-300 hover:bg-gold-200"
+            >
+              Try it now Yourself
+            </a>
+            <a
+              href="https://roshni-frontend-5noi.onrender.com/"
+              target="_blank"
+              rel="noreferrer"
+              className="mt-3 rounded-full bg-cream-50 px-4 py-3 text-center font-display tracking-[0.07em] text-burgundy-950 transition-colors duration-300 hover:bg-cream-100"
+            >
+              Get started
+            </a>
           </div>
         </div>
       </header>
